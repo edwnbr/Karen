@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Karen 1.6.3",
+  "description": "Adds real-time video streaming capabilities allowing the model to see user input.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
